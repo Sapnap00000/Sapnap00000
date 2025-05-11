@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello I'm Sapnap💲
+
+![My routine every day](Image_README/My_routine.png)
+![My waifu](Image_README/My_waifu.jpeg)
+
+👨‍💼 I'm currently not working.
+📓 I'm currently learning the **C++** programing language.
 
 <!--
 **Sapnap00000/Sapnap00000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
