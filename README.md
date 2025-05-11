@@ -70,7 +70,7 @@
 
 ##### Connect with me
 
-![https://www.sololearn.com/profile/](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
+![https://www.sololearn.com/profile/33719532/?ref=app](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
 
 ##### My collection of work
 
