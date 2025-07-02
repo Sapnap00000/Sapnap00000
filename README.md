@@ -1,9 +1,9 @@
 <div align="center">
     <img src="Image_README/github-profile-3.png">
 </div>
-<p align="center">
+<h5 align="center">
     <strong>Tech Enthusiast 🤖 | Enginer IoT 🛠️ | Penetration Testing 🔍 | Cyber Scurity 🔒 | Wibu 🔥</strong>
-</p>
+</h5>
 
 ---
 <h3>📓 Tech Stack</h3>
@@ -19,10 +19,10 @@
 
 ---
 <h3 align="center">📊 My Github Dashboard</h3>
-<div align="center" display="flex" flex-wrap="wrap">
-<img src="https://github-readme-stats.vercel.app/api?username=Sapnap&show=reviews,prs_merged_percentage&show_icons=true&title_color=2e2eff&bg_color=000000&text_color=ffffff&border_color=2e2eff&border_radius=20"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sapnap00000&theme=github_dark&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapnap00000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sapnap&show=reviews,prs_merged_percentage&show_icons=true&title_color=2e2eff&bg_color=000000&text_color=ffffff&border_color=2e2eff&border_radius=20"/><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sapnap00000&theme=github_dark&hide_border=false"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapnap00000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br>
 
 <!-- ![Sapnap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapnap&show=reviews,prs_merged_percentage&show_icons=true&title_color=2e2eff&bg_color=000000&text_color=ffffff&border_color=2e2eff&border_radius=20)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sapnap00000&theme=github_dark&hide_border=false)<br/>
