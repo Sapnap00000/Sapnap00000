@@ -24,20 +24,11 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=Sapnap00000&theme=github_dark&hide_border=false"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapnap00000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/><br>
 
-<!-- ![Sapnap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapnap&show=reviews,prs_merged_percentage&show_icons=true&title_color=2e2eff&bg_color=000000&text_color=ffffff&border_color=2e2eff&border_radius=20)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sapnap00000&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapnap00000&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
-
-
 <!-- 🏆 GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Sapnap00000&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/><br>
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Sapnap00000&theme=radical&no-frame=true&no-bg=false&margin-w=4) -->
-
 <!-- 🔝 Top Contributed Repo -->
 <img src="https://github-contributor-stats.vercel.app/api?username=Sapnap00000&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=Sapnap00000&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 </div>
 
 ---
@@ -48,5 +39,5 @@
         <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
     </a>
 </p>
-
 <!-- [![](https://visitcount.itsvg.in/api?id=Sapnap00000&icon=2&color=1)](https://visitcount.itsvg.in) -->
+<!-- ================ SAPNAP ©️ COPYRIGHT 2025. ALL RIGHT RESERVED.================ -->
